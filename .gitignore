@@ -1,0 +1,5 @@
+qdrant_storage/
+MAS/
+.venv/
+chunk/*
+!chunk/pipeline_main_ingestion.ipynb
