@@ -1,3 +1,4 @@
+.gitignore
 qdrant_storage/
 MAS/
 .venv/
